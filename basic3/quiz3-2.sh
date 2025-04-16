@@ -1,5 +1,5 @@
 #!/bin/sh
-if [ -d "quiz3-2.sh" ]
+if [ -d "quiz3-1.sh" ]
 then
     echo "디렉토리입니다."
 else
